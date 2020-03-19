@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: RA_iOS_8.26_Unclone.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- aac
+isFrameworkApk: true
+packageInfo:
+  forcedPackageId: '23'
+  renameManifestPackage: com.whatsapp
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '453144'
+  versionName: 2.20.11
